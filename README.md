@@ -26,3 +26,7 @@
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.link/rgnxev" alt="WhatsApp"/></a>
 </p>
+
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=pedropdc&hide=html,scss,stylus,blad,css,batchfile,dockerfile,typescript&theme=dark&show_icons=true)](https://github.com/saifurrahman1193)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedropdc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
