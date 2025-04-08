@@ -19,4 +19,5 @@ Analista de Dados, com foco em <strong>Power BI, SQL e Python</strong>. Crio Das
 ### 🤝🏻 Conecte-se comigo
 - [Gmail](mailto:0901dantaspedro@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/pedro-paulo-dantas-costa/)
+- [Portfolio](https://pedropdc.github.io/portfolio/)
 - [Medium](https://www.medium.com/@pedropdc/)
